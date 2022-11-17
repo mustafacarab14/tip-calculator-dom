@@ -10,7 +10,7 @@ body{
     
 }
 
-.container{
+#container{
     text-align: center;
     margin:20px 0px
 }
@@ -28,10 +28,10 @@ button{
     padding:8px 10px
 }
 
-.form{
+#form{
     margin: 18px 0px;
 }
 
-.note{
+#note{
     margin:14px 0px
 }
